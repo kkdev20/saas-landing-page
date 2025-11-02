@@ -67,7 +67,7 @@ export function Testimonials() {
                   ))}
                 </div>
                 <p className="text-foreground/80 mb-6 leading-relaxed">
-                  "{testimonial.quote}"
+                  &ldquo;{testimonial.quote}&rdquo;
                 </p>
                 <div className="flex items-center gap-3">
                   <div className="relative w-12 h-12">

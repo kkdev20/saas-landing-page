@@ -6,7 +6,11 @@ const withNextIntl = createNextIntlPlugin('./lib/i18n/config.ts');
 const nextConfig = {
   images: {
     domains: ['localhost'],
+    remotePatterns: [],
   },
+  // Optimize for Vercel
+  poweredByHeader: false,
+  compress: true,
 };
  
 export default withNextIntl(nextConfig);
