@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "features": "Fitur",
+    "pricing": "Harga",
+    "resources": "Sumber Daya",
+    "company": "Perusahaan",
+    "signIn": "Masuk",
+    "startTrial": "Mulai Uji Coba Gratis"
+  },
+  "buttons": {
+    "learnMore": "Pelajari Lebih Lanjut",
+    "getStarted": "Mulai Sekarang",
+    "contactSales": "Hubungi Sales",
+    "watchDemo": "Tonton Demo",
+    "viewAll": "Lihat semua",
+    "startTrial": "Mulai Uji Coba Gratis",
+    "startTrialNoCC": "Mulai Uji Coba Gratis - Tanpa Kartu Kredit"
+  },
+  "hero": {
+    "headline": "Platform Lengkap untuk Tim Modern",
+    "subheadline": "Sederhanakan proyek, tingkatkan produktivitas, kolaborasi tanpa hambatan",
+    "ctaPrimary": "Mulai Uji Coba Gratis",
+    "ctaSecondary": "Tonton Demo",
+    "trustBadge": "Dipercaya oleh 10.000+ tim di seluruh dunia"
+  },
+  "features": {
+    "title": "Semua yang Anda Butuhkan untuk Sukses",
+    "realTimeCollab": {
+      "title": "Kolaborasi Real-time",
+      "description": "Bekerja bersama secara real-time dengan tim Anda, di mana pun mereka berada."
+    },
+    "taskManagement": {
+      "title": "Manajemen Tugas",
+      "description": "Organisir dan prioritaskan tugas dengan alat manajemen proyek yang powerful."
+    },
+    "timeTracking": {
+      "title": "Pelacakan Waktu",
+      "description": "Lacak waktu yang dihabiskan untuk proyek dan buat laporan detail."
+    },
+    "analytics": {
+      "title": "Dashboard Analitik",
+      "description": "Dapatkan wawasan tentang produktivitas tim Anda dengan analitik komprehensif."
+    },
+    "fileSharing": {
+      "title": "Berbagi File",
+      "description": "Bagikan file dengan aman bersama tim Anda dengan opsi penyimpanan tanpa batas."
+    },
+    "integrations": {
+      "title": "Integrasi",
+      "description": "Terhubung dengan tools favorit Anda dan sederhanakan alur kerja."
+    }
+  },
+  "productDemo": {
+    "title": "Lihat CloudSync Beraksi",
+    "tabs": {
+      "dashboard": "Ikhtisar Dashboard",
+      "projectBoard": "Papan Proyek",
+      "teamChat": "Obrolan Tim",
+      "analytics": "Analitik"
+    },
+    "learnMore": "Pelajari lebih lanjut"
+  },
+  "stats": {
+    "activeUsers": "10K+ Pengguna Aktif",
+    "uptime": "99.9% Waktu Aktif",
+    "integrations": "50+ Integrasi",
+    "support": "Dukungan 24/7"
+  },
+  "integrations": {
+    "title": "Terintegrasi dengan Tools Favorit Anda",
+    "button": "Lihat semua 50+ integrasi"
+  },
+  "pricing": {
+    "title": "Harga Sederhana dan Transparan",
+    "monthly": "Bulanan",
+    "yearly": "Tahunan",
+    "save20": "Hemat 20%",
+    "plans": {
+      "starter": {
+        "name": "Pemula",
+        "price": "$9",
+        "period": "/bulan",
+        "members": "Hingga 5 anggota tim",
+        "storage": "Penyimpanan 10 GB",
+        "features": "Fitur dasar",
+        "support": "Dukungan email"
+      },
+      "professional": {
+        "name": "Profesional",
+        "price": "$29",
+        "period": "/bulan",
+        "popular": "PALING POPULER",
+        "members": "Hingga 50 anggota tim",
+        "storage": "Penyimpanan 100 GB",
+        "features": "Semua fitur",
+        "support": "Dukungan prioritas",
+        "analytics": "Analitik lanjutan"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "Khusus",
+        "members": "Anggota tim tanpa batas",
+        "storage": "Penyimpanan tanpa batas",
+        "features": "Integrasi khusus",
+        "support": "Dukungan dedicated",
+        "sla": "Jaminan SLA"
+      }
+    },
+    "note": "Semua paket termasuk uji coba gratis 14 hari"
+  },
+  "testimonials": {
+    "title": "Dicintai Tim di Seluruh Dunia",
+    "items": [
+      {
+        "quote": "CloudSync mengubah cara tim remote kami berkolaborasi. Produktivitas meningkat 40% di bulan pertama.",
+        "name": "Sarah Chen",
+        "title": "CEO",
+        "company": "TechStart Inc"
+      },
+      {
+        "quote": "Alat manajemen proyek terbaik yang pernah kami gunakan. Intuitif, powerful, dan dapat diandalkan.",
+        "name": "Michael Rodriguez",
+        "title": "Manajer Produk",
+        "company": "Innovate Labs"
+      },
+      {
+        "quote": "Tim kami menyukai CloudSync. Ini menjadi penting untuk alur kerja harian kami.",
+        "name": "Emily Johnson",
+        "title": "Pemimpin Tim",
+        "company": "Design Co"
+      },
+      {
+        "quote": "Dashboard analitik memberikan wawasan luar biasa tentang kinerja proyek kami.",
+        "name": "David Kim",
+        "title": "Direktur Operasi",
+        "company": "ScaleUp Solutions"
+      },
+      {
+        "quote": "Beralih ke CloudSync adalah keputusan terbaik yang kami buat tahun ini. Sangat direkomendasikan!",
+        "name": "Lisa Anderson",
+        "title": "Founder",
+        "company": "Startup Hub"
+      },
+      {
+        "quote": "Integrasinya seamless. Semua yang kami butuhkan sekarang ada di satu tempat.",
+        "name": "James Wilson",
+        "title": "CTO",
+        "company": "CloudFirst"
+      }
+    ]
+  },
+  "cta": {
+    "headline": "Siap Mengubah Alur Kerja Anda?",
+    "subheadline": "Bergabung dengan 10.000+ tim yang sudah menggunakan CloudSync",
+    "button": "Mulai Uji Coba Gratis - Tanpa Kartu Kredit",
+    "finePrint": "Uji coba 14 hari • Batal kapan saja • Tanpa biaya setup"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan",
+    "items": [
+      {
+        "question": "Bagaimana cara kerja uji coba gratis?",
+        "answer": "Anda mendapatkan akses penuh ke semua fitur selama 14 hari. Tidak perlu kartu kredit. Anda dapat membatalkan kapan saja selama periode uji coba."
+      },
+      {
+        "question": "Bisakah saya mengubah paket kapan saja?",
+        "answer": "Ya! Anda dapat meningkatkan, menurunkan, atau membatalkan paket Anda kapan saja. Perubahan berlaku segera."
+      },
+      {
+        "question": "Apakah data saya aman?",
+        "answer": "Tentu saja. Kami menggunakan enkripsi tingkat enterprise, audit keamanan rutin, dan mematuhi GDPR, SOC 2, dan standar industri lainnya."
+      },
+      {
+        "question": "Integrasi apa yang Anda dukung?",
+        "answer": "Kami mendukung 50+ integrasi termasuk Slack, Google Workspace, Microsoft 365, GitHub, Jira, dan banyak lagi."
+      },
+      {
+        "question": "Apakah Anda menawarkan pengembalian dana?",
+        "answer": "Ya, kami menawarkan jaminan uang kembali 30 hari untuk semua paket berbayar jika Anda tidak puas."
+      },
+      {
+        "question": "Bagaimana cara penagihan?",
+        "answer": "Penagihan sangat sederhana. Kami menagih bulanan atau tahunan berdasarkan paket Anda. Anda dapat mengelola penagihan langsung dari pengaturan akun."
+      }
+    ],
+    "stillHaveQuestions": "Masih punya pertanyaan? Hubungi kami"
+  },
+  "footer": {
+    "product": {
+      "title": "PRODUK",
+      "links": {
+        "features": "Fitur",
+        "pricing": "Harga",
+        "integrations": "Integrasi",
+        "security": "Keamanan",
+        "roadmap": "Roadmap"
+      }
+    },
+    "company": {
+      "title": "PERUSAHAAN",
+      "links": {
+        "about": "Tentang Kami",
+        "careers": "Karir",
+        "blog": "Blog",
+        "press": "Kit Media",
+        "contact": "Kontak"
+      }
+    },
+    "resources": {
+      "title": "SUMBER DAYA",
+      "links": {
+        "help": "Pusat Bantuan",
+        "docs": "Dokumentasi",
+        "api": "API Docs",
+        "community": "Komunitas",
+        "status": "Status"
+      }
+    },
+    "legal": {
+      "title": "LEGAL",
+      "links": {
+        "privacy": "Kebijakan Privasi",
+        "terms": "Syarat Layanan",
+        "cookies": "Kebijakan Cookie",
+        "gdpr": "GDPR"
+      }
+    },
+    "newsletter": {
+      "title": "Dapatkan update berita produk terbaru",
+      "placeholder": "Masukkan email Anda",
+      "button": "Berlangganan"
+    },
+    "copyright": "© 2024 CloudSync. Hak cipta dilindungi."
+  }
+}
