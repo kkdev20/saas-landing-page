@@ -156,7 +156,18 @@ export function Footer() {
                 </a>
               ))}
             </div>
-            <p className="text-xs text-foreground/60">{t('copyright')}</p>
+            <div className="flex flex-col md:flex-row items-center gap-2">
+              <p className="text-xs text-foreground/60">{t('copyright')}</p>
+              <span className="text-xs text-foreground/40">•</span>
+              <a
+                href="https://wistackt.site"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs text-foreground/60 hover:text-primary transition-colors"
+              >
+                wistackt.site
+              </a>
+            </div>
           </div>
         </div>
       </div>

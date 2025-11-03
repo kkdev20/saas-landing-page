@@ -5,6 +5,7 @@ import { locales } from '@/lib/i18n/config';
 import { Providers } from '@/components/providers/Providers';
 import { Navbar } from '@/components/layout/Navbar';
 import { Footer } from '@/components/layout/Footer';
+import { Watermark } from '@/components/ui/Watermark';
 
 export default async function LocaleLayout({
   children,
@@ -26,6 +27,7 @@ export default async function LocaleLayout({
           <Navbar />
           <main className="flex-1">{children}</main>
           <Footer />
+          <Watermark />
         </div>
       </Providers>
     </NextIntlClientProvider>
